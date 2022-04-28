@@ -1,0 +1,56 @@
+
+.ant-layout-footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    position:static;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+a{
+    color:aliceblue
+}
+.ant-layout-footer {
+    text-align:center;
+    left:0;
+    bottom:0;
+    right:0;
+ }
+.menu1{
+    border-top: 1px solid gainsboro;
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    justify-content: space-between;
+}
+.iconSocial{
+    width: 15%;
+    display: flex;
+    flex-direction: row;
+    gap: 6%;
+    font-size:30px
+}
+.submenu{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+}
+
+.menuService{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:5%;
+    padding: 3%;
+    justify-content: center;
+}
+.item{
+    flex-basis: 15%;
+    
+}
+.btn-footer{
+    background: linear-gradient(178deg,#333,#242424);
+    padding: 30px 82px;
+    text-align:left;
+}

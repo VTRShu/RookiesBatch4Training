@@ -1,0 +1,18 @@
+@model ASP.NetCoreMVCEx1.Models.RookieModel
+
+@{
+    Layout = "_Layout";
+}
+
+<h1>EDIT ROOKIE </h1>
+
+<a href="@Url.ActionLink("Index", "Rookies")" class="btn btn-primary"><i class="fa fa-arrow-left"></i> Back</a>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+        
+            <partial name = "_Form">
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+@model IEnumerable<ASP.NetCoreMVCEx1.Models.RookieModel>
+
+@{
+    Layout = "_Layout";
+}
+
+<body>
+    <h1>MALE ROOKIES LIST</h1>
+    <a href="@Url.ActionLink("Index", "Rookies")" class="btn btn-primary"><i class="fa fa-arrow-left"></i> Back</a>
+    
+    <partial name="_View"></partial>
+    
+</body>

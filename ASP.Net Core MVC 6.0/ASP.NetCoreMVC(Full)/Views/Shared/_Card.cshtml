@@ -1,0 +1,25 @@
+ @model ASP.NetCoreMVCEx1.Models.RookieModel
+ <div class="card" style="width: 18rem;">
+    <img class="card-img-top"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhCBq-WV5kdxy5e-8fgzaYKejJFYOUnTt1Q&usqp=CAU"
+      alt="Card image cap">
+    <div class="card-body">
+      <dl>
+        <h5 class="card-title">@Model.FullName</h5>
+        <p class="card-text">@Model.Gender</p>
+        <p class="card-text">@Model.DoB.ToString("dd/MM/yyyy")</p>
+        <p class="card-text">@Model.Email</p>
+        <p class="card-text">@Model.PhoneNumber</p>
+        <p class="card-text">@{
+              if (@Model.Graduated == true)
+              {
+                <span>Graduated</span>;
+              }
+              else
+              {
+                <span>Undergraduate</span>;
+              }
+            }
+        </p>
+
+      </dl>

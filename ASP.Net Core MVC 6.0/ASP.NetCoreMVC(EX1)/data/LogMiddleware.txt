@@ -1,0 +1,4 @@
+
+https://://localhost:7009/favicon.ico 
+  22/01/2022 20:46:37
+ Scheme: https://|| Host: localhost:7009|| Path: /favicon.ico||Query Full: ||Query key: ||Query value:  || Body:

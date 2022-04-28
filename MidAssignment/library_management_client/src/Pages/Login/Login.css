@@ -1,0 +1,11 @@
+.div-login {
+    border-radius: 10px ;
+    background-color: white ;
+    padding-top: 80px ;
+    height: 53vh ;
+    margin-left: 25% ;
+    margin-top: 5%;
+    width: 50% ;
+    box-shadow:  20px 20px 60px #cccccc,
+                -20px -20px 60px #ffffff;
+  }

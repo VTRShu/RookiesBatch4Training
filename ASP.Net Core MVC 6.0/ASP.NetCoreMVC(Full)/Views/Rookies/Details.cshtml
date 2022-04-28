@@ -1,0 +1,16 @@
+@model ASP.NetCoreMVCEx1.Models.RookieModel
+
+@{
+  Layout = "_Layout";
+}
+
+<body>
+  <h1>ROOKIE DETAIL</h1>
+  <a href="@Url.ActionLink("Index", "Rookies")" class="btn btn-primary"><i class="fa fa-arrow-left"></i> Back</a>
+  
+  <partial name = "_Card">
+    
+  <p><a href="@Url.ActionLink("Delete", "Rookies", new { id = @Model.RookieId })" class="btn btn-danger"
+  onclick="return confirm('Are you sure you want to delete this rookie?');"><i class="fa fa-trash-o"
+  aria-hidden="true"></i> Delete</a></p>
+</body>

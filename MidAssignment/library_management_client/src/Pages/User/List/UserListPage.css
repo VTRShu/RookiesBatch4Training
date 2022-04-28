@@ -1,0 +1,19 @@
+
+  .tableModal > tr > td{
+    font-weight: 350;
+    font-size:15px;
+  }
+  .tableModal > tr {
+    width:100%;
+    text-align: left;
+  }
+  .tableModal > tr > td:first-child {
+    font-weight: 600;
+    width:50%;
+  }
+  .tableModal > tr > td:last-child {
+    word-wrap: break-word;
+    /* text-align: center; */
+  }
+
+  

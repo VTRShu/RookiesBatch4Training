@@ -1,0 +1,14 @@
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer).exe
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer).deps.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer).runtimeconfig.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer).runtimeconfig.dev.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer).dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer).pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).AssemblyInfo.cs
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer).genruntimeconfig.cache

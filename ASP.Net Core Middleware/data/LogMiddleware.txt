@@ -1,0 +1,36 @@
+
+https://://localhost:7070/Home/Index/?id=1&name=John 
+  11/02/2022 15:27:43
+ Scheme: https://|| Host: localhost:7070|| Path: /Home/Index/||Query Full: ?id=1&name=John||Query key: id,name||Query value: 1,John || Body:
+
+https://://localhost:7070/favicon.ico 
+  11/02/2022 15:27:43
+ Scheme: https://|| Host: localhost:7070|| Path: /favicon.ico||Query Full: ||Query key: ||Query value:  || Body:
+
+https://://localhost:7070/Home/Index/?id=1&name=John 
+  11/02/2022 15:27:52
+ Scheme: https://|| Host: localhost:7070|| Path: /Home/Index/||Query Full: ?id=1&name=John||Query key: id,name||Query value: 1,John || Body:
+
+https://://localhost:7070/favicon.ico 
+  11/02/2022 15:27:52
+ Scheme: https://|| Host: localhost:7070|| Path: /favicon.ico||Query Full: ||Query key: ||Query value:  || Body:
+
+https://://localhost:7070/Home/Index 
+  11/02/2022 15:36:51
+ Scheme: https://|| Host: localhost:7070|| Path: /Home/Index||Query Full: ||Query key: ||Query value:  || Body:
+
+https://://localhost:7070/ 
+  11/02/2022 15:46:48
+ Scheme: https://|| Host: localhost:7070|| Path: /||Query Full: ||Query key: ||Query value:  || Body:
+
+https://://localhost:7070/favicon.ico 
+  11/02/2022 15:46:49
+ Scheme: https://|| Host: localhost:7070|| Path: /favicon.ico||Query Full: ||Query key: ||Query value:  || Body:
+
+https://://localhost:7070/Home/Index 
+  11/02/2022 15:46:52
+ Scheme: https://|| Host: localhost:7070|| Path: /Home/Index||Query Full: ||Query key: ||Query value:  || Body:
+
+https://://localhost:7070/Home/Index/?id=1&name=John&age=2 
+  11/02/2022 15:47:04
+ Scheme: https://|| Host: localhost:7070|| Path: /Home/Index/||Query Full: ?id=1&name=John&age=2||Query key: id,name,age||Query value: 1,John,2 || Body:

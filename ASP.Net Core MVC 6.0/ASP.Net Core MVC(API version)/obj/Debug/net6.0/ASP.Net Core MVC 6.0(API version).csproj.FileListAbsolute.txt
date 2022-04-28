@@ -1,0 +1,76 @@
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\appsettings.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).exe
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).deps.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).runtimeconfig.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ref\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).pdb
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).AssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\scopedcss\bundle\ASP.Net Core MVC 6.0(API version).styles.css
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).csproj.CopyComplete
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ref\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).pdb
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).genruntimeconfig.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Excelerator.ClosedXml.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Excelerator.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0(API version)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\appsettings.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).exe
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).deps.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).runtimeconfig.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ref\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ASP.Net Core MVC 6.0(API version).pdb
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Excelerator.ClosedXml.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Excelerator.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).AssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\scopedcss\bundle\ASP.Net Core MVC 6.0(API version).styles.css
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).csproj.CopyComplete
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ref\ASP.Net Core MVC 6.0(API version).dll
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).pdb
+C:\Users\trung\NashTraining4\ASP.Net Core MVC 6.0\ASP.Net Core MVC(API version)\obj\Debug\net6.0\ASP.Net Core MVC 6.0(API version).genruntimeconfig.cache

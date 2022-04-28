@@ -1,0 +1,35 @@
+.ant-layout-header.header{
+   height: 10%;
+}
+.ant-layout-content{
+    overflow: auto;
+    width: '100%';
+}
+.ant-layout-footer {
+    text-align:center;
+    left:0;
+    bottom:0;
+    right:0;
+}
+h1,h2,h3,h4,h5{
+font-family: 'Alegreya', serif;
+}
+p{
+    font-family: "MBCorpo" ,"DaimlerCS-Regular",Helvetica,Arial,sans-serif;
+}
+.spinner {
+    animation: spin infinite 5s linear;
+    font-size: 50px
+  }
+.loadingIcon{
+    text-align: center;
+    height:82vh;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

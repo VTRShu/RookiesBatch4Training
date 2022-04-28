@@ -1,0 +1,14 @@
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\bin\Debug\netcoreapp3.1\C#AsyncAwait.exe
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\bin\Debug\netcoreapp3.1\C#AsyncAwait.deps.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\bin\Debug\netcoreapp3.1\C#AsyncAwait.runtimeconfig.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\bin\Debug\netcoreapp3.1\C#AsyncAwait.runtimeconfig.dev.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\bin\Debug\netcoreapp3.1\C#AsyncAwait.dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\bin\Debug\netcoreapp3.1\C#AsyncAwait.pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.AssemblyInfo.cs
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#AsyncAwait\obj\Debug\netcoreapp3.1\C#AsyncAwait.genruntimeconfig.cache

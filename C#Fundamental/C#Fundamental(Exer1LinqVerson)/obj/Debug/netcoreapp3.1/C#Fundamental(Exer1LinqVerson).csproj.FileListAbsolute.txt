@@ -1,0 +1,14 @@
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).exe
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).deps.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).runtimeconfig.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).runtimeconfig.dev.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\bin\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).AssemblyInfo.cs
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#Fundamental(Exer1LinqVerson)\obj\Debug\netcoreapp3.1\C#Fundamental(Exer1LinqVerson).genruntimeconfig.cache

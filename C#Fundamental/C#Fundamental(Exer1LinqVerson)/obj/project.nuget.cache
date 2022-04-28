@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rH3otbZj8YhJsPOiUQbOFXbpiXLfunBK4K1UOm1UNSmiBV1Xlb5n5RZRwuJExdU7e8a/OvKWWdpsYeUVNH1kYg==",
+  "success": true,
+  "projectFilePath": "d:\\Rookies4\\Technical Material\\SourceCode\\NashTraining4\\C#Fundamental\\C#Fundamental(Exer1LinqVerson)\\C#Fundamental(Exer1LinqVerson).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

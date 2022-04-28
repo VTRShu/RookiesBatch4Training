@@ -1,0 +1,36 @@
+   @model IEnumerable<ASP.NetCoreMVCEx1.Models.RookieModel>
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th class="text-nowrap">Full Name</th>
+                <th class="text-nowrap">@Html.DisplayNameFor(model => model.Gender)</th>
+                <th class="text-nowrap">@Html.DisplayNameFor(model => model.Email)</th>
+                <th class="text-nowrap">@Html.DisplayNameFor(model => model.DoB)</th>
+                <th class="text-nowrap">@Html.DisplayNameFor(model => model.PhoneNumber)</th>
+                <th class="text-nowrap">@Html.DisplayNameFor(model => model.BirthPlace)</th>
+                <th class="text-nowrap">@Html.DisplayNameFor(model => model.Graduated)</th>
+                <th></th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-nowrap">@Html.DisplayFor(modelItem => item.FullName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Gender)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td>@Html.DisplayFor(modelItem => item.DoB) - @Html.DisplayFor(modelItem => item.Age)</td>
+                <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+                <td>@Html.DisplayFor(modelItem => item.BirthPlace)</td>
+                <td>@Html.DisplayFor(modelItem => item.Graduated)</td>
+                <td class="text-nowrap">
+                    <a href="@Url.ActionLink("Edit", "Rookies", new { id = item.RookieId })" class="btn btn-warning"><i
+                        class="fa fa-pencil" aria-hidden="true"></i> Edit </a>
+                    <a href="@Url.ActionLink("Details", "Rookies", new { id = item.RookieId })" class="btn btn-info"><i
+                        class="fa fa-info" aria-hidden="true"></i> Detail</a>
+                    <a href="@Url.ActionLink("Delete", "Rookies", new { id = item.RookieId })" class="btn btn-danger"
+                    onclick="return confirm('Are you sure you want to delete this rookie @item.FullName?');"><i class="fa fa-trash-o"
+                        aria-hidden="true"></i> Delete</a>
+                </td>
+            </tr>
+        }
+    </table>

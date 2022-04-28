@@ -1,0 +1,8 @@
+.cardUser{
+    display: flex;
+    justify-content: center;
+}
+.cardUser>.card{
+    position: absolute;
+    top: 30%;
+}

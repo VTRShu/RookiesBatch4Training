@@ -1,0 +1,26 @@
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\appsettings.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ASP.Net Core Middleware.staticwebassets.runtime.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ASP.Net Core Middleware.exe
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ASP.Net Core Middleware.deps.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ASP.Net Core Middleware.runtimeconfig.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ASP.Net Core Middleware.dll
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ref\ASP.Net Core Middleware.dll
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\bin\Debug\net6.0\ASP.Net Core Middleware.pdb
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.AssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.RazorAssemblyInfo.cache
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.RazorAssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\scopedcss\bundle\ASP.Net Core Middleware.styles.css
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\scopedcss\projectbundle\ASP.Net Core Middleware.bundle.scp.css
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.dll
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ref\ASP.Net Core Middleware.dll
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.pdb
+C:\Users\trung\NashTraining4\ASP.Net Core Middleware\obj\Debug\net6.0\ASP.Net Core Middleware.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\bin\Debug\netcoreapp3.1\C#Delegate.exe
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\bin\Debug\netcoreapp3.1\C#Delegate.deps.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\bin\Debug\netcoreapp3.1\C#Delegate.runtimeconfig.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\bin\Debug\netcoreapp3.1\C#Delegate.runtimeconfig.dev.json
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\bin\Debug\netcoreapp3.1\C#Delegate.dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\bin\Debug\netcoreapp3.1\C#Delegate.pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.AssemblyInfo.cs
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.dll
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.pdb
+C:\Users\trung\NashTraining4\C#Fundamental\C#Delegate\obj\Debug\netcoreapp3.1\C#Delegate.genruntimeconfig.cache

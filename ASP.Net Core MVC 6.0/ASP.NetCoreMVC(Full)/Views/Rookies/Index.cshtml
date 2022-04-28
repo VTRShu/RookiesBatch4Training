@@ -1,0 +1,49 @@
+@model IEnumerable<ASP.NetCoreMVCEx1.Models.RookieModel>
+
+@{
+    Layout = "_Layout";
+}
+
+<body>
+    <h1>THE ROOKIES</h1>
+    <div style="display:flex">
+        <div style="flex-basis:50%">
+            <a href="@Url.ActionLink("Create", "Rookies")" class="btn btn-success"><i class="fa fa-user-plus"></i>
+                Create</a>
+        </div>
+        <div style="flex-basis:50%,text-align:center">
+            <form method="post" asp-controller="Rookies" asp-action="ExportExcelButton">
+                <input class="btn btn-primary" type="submit" value="Export" />
+            </form>
+        </div>
+    </div>
+
+    <partial name="_View">
+    @if (TempData["DeleteSuccess"] != null)
+    {   
+        @if(TempData["DeleteSuccess"].ToString().Contains("already removed"))
+        {
+            <p class="alert alert-warning" id="successMessage">@TempData["DeleteSuccess"]</p>
+        }else{
+            <p class="alert alert-success" id="successMessage">@TempData["DeleteSuccess"]</p>
+        }
+    }
+    
+    <div>
+        <div class="btn-group dropright">
+            <button class="btn btn-secondary " type="button" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="true">
+                Options
+            </button> 
+            <div class="dropdown">
+                <a class="dropdown-item" href="@Url.ActionLink("ViewMaleRookies","Rookies")">Return male rookies List</a>
+                <a class="dropdown-item" href="@Url.ActionLink("ViewOldestRookie","Rookies")">Return oldest rookie</a>
+                <a class="dropdown-item" href="@Url.ActionLink("ViewFullName","Rookies")">Return full name List</a>
+                <a class="dropdown-item" href="@Url.ActionLink("ViewByBirthYear","Rookies", new{condition = "equal"})">Return rookies who has birth year is 2000</a>
+                <a class="dropdown-item" href="@Url.ActionLink("ViewByBirthYear","Rookies", new{condition = "greater"})">Return rookies who has birth year is greater than 2000</a>
+                <a class="dropdown-item" href="@Url.ActionLink("ViewByBirthYear","Rookies",new{condition = "less"})">Return rookies who has birth year is less than 2000</a>
+             </div>
+        </div>
+    </div>
+</body>
+

@@ -1,0 +1,27 @@
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\appsettings.json
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\ASP.Net Core API Exer.exe
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\ASP.Net Core API Exer.deps.json
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\ASP.Net Core API Exer.runtimeconfig.json
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\ASP.Net Core API Exer.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\ref\ASP.Net Core API Exer.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\ASP.Net Core API Exer.pdb
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.csproj.AssemblyReference.cache
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.AssemblyInfoInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.AssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.csproj.CoreCompileInputs.cache
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\scopedcss\bundle\ASP.Net Core API Exer.styles.css
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.csproj.CopyComplete
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ref\ASP.Net Core API Exer.dll
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.pdb
+C:\Users\trung\NashTraining4\ASP.Net Core API\ASP.Net Core API Exer\obj\Debug\net6.0\ASP.Net Core API Exer.genruntimeconfig.cache
